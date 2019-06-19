@@ -14,7 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pub-services": "../",
+    "pub-services": "../pub-services",
     "commander": "^2.15.1"
   }
 }
